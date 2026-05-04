@@ -3,7 +3,7 @@
   "short_name": "FORGE_",
   "description": "Il tuo tracker personale per il workout",
   "start_url": "./index.html",
-  "scope": "/forge-tracker/",
+  "scope": "/workout-tracker/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
