@@ -2,7 +2,7 @@
   "name": "FORGE_",
   "short_name": "FORGE_",
   "description": "Il tuo tracker personale per il workout",
-  "start_url": "/forge-tracker/",
+  "start_url": "./index.html",
   "scope": "/forge-tracker/",
   "display": "standalone",
   "background_color": "#0a0a0a",
